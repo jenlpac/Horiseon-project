@@ -35,7 +35,6 @@ header nav {
 }
 
 /* remove unnecessary code */
-
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -50,6 +49,7 @@ p {
     font-size: 16px;
 }
 
+/* hero style */
 .hero {
     background-image: url("../images/digital-marketing-meeting.jpg");
     height: 1000px;
@@ -70,7 +70,6 @@ p {
 }
 
 /* create main and aside sections for semantics */
-
 main {
     width: 75%;
     display: inline-block;
@@ -123,8 +122,6 @@ section h2 {
     margin: 10px auto;
     max-width: 150px;
 }
-
-
 
 footer {
     padding: 30px;
