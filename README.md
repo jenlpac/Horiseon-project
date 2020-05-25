@@ -1,4 +1,5 @@
 # Horiseon-project
+##Challenge Description:
     ## Challenge Description:
         *Made page accessible by adding "alt" elements to images. Also added color contrast to header.
         *Included comment messages throughout html and css code.
